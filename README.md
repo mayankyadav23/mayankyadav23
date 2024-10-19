@@ -62,6 +62,7 @@ Dive into a detailed Jupyter Notebook showcasing player performances 🏏, match
 This repository showcases data analysis projects using Python libraries like Pandas, NumPy, Matplotlib, and Seaborn. Projects include medical data visualization, time series analysis, and more.
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)
 ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-6495ED?style=flat-square)
 
 ---
@@ -77,6 +78,7 @@ A Python-based project that suggests movies based on user input. Using a pre-cal
 ### [Sales-Forecasting-ACG](https://github.com/mayankyadav23/Sales-Forecasting-ACG)  
 📊 **Predicting sales trends using data science**  
 Using a dataset of 8,500+ entries, this project develops a predictive model for sales based on product and store attributes.  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![Sales Forecasting](https://img.shields.io/badge/-Sales%20Forecasting-FF6347?style=flat-square)
 ![Data Science](https://img.shields.io/badge/-Data%20Science-4CAF50?style=flat-square)
 
@@ -133,8 +135,9 @@ This project focuses on data visualization, creating impactful visuals to commun
 ### [Netflix-Data-Analysis](https://github.com/mayankyadav23/Netflix-Data-Analysis)  
 🎬 **Exploring Netflix Data**  
 A comprehensive analysis of Netflix’s data using PostgreSQL, focusing on database normalization, reducing redundancy, and optimizing query performance.  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square)
+![Excel](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Tableau](https://img.shields.io/badge/-SQL-4479A1?style=flat-square)
 
 ---
 
@@ -149,6 +152,7 @@ A Power BI dashboard analyzing Blinkit’s total sales, item visibility, and cus
 ### [Used-Cars-Price-Prediction](https://github.com/mayankyadav23/Used-Cars-Price-Prediction)  
 🚗 **Predicting used car prices**  
 Predicts car prices with **92% accuracy** using a **Random Forest model**. It takes you through data cleaning, feature engineering, and model evaluation.  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-4682B4?style=flat-square)
 ![Regression](https://img.shields.io/badge/-Regression%20Analysis-6495ED?style=flat-square)
 
