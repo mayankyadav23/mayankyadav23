@@ -8,14 +8,15 @@ I specialize in transforming complex data into actionable insights that drive bu
 ---
 
 ## 💡 Skills & Expertise:
-[![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-%E2%9C%85-green)](https://github.com/mayank-yadav) 
-[![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-%F0%9F%93%88-blue)](https://github.com/mayank-yadav) 
-[![Visualization](https://img.shields.io/badge/Data%20Visualization-%F0%9F%93%A2-orange)](https://github.com/mayank-yadav)
-[![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-%E2%9A%99%EF%B8%8F-yellow)](https://github.com/mayank-yadav)
-[![Storytelling](https://img.shields.io/badge/Data%20Storytelling-%F0%9F%93%9D-lightgrey)](https://github.com/mayank-yadav)
-[![Data Transformation](https://img.shields.io/badge/Data%20Transformation-%F0%9F%94%A5-red)](https://github.com/mayank-yadav)
-[![Data Profiling](https://img.shields.io/badge/Data%20Profiling-%E2%9C%85-blue)](https://github.com/mayank-yadav)
-[![Data Modeling](https://img.shields.io/badge/Data%20Modeling-%F0%9F%93%8A-purple)](https://github.com/mayank-yadav)
+[![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-%E2%9C%85-green)](https://github.com/mayankyadav23) 
+[![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-%E2%9C%A8-yellow)](https://github.com/mayankyadav23) 
+[![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-%F0%9F%93%88-blue)](https://github.com/mayankyadav23) 
+[![Visualization](https://img.shields.io/badge/Data%20Visualization-%F0%9F%93%A2-orange)](https://github.com/mayankyadav23)
+[![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-%E2%9A%99%EF%B8%8F-yellow)](https://github.com/mayankyadav23)
+[![Storytelling](https://img.shields.io/badge/Data%20Storytelling-%F0%9F%93%9D-lightgrey)](https://github.com/mayankyadav23)
+[![Data Transformation](https://img.shields.io/badge/Data%20Transformation-%F0%9F%94%A5-red)](https://github.com/mayankyadav23)
+[![Data Profiling](https://img.shields.io/badge/Data%20Profiling-%E2%9C%85-blue)](https://github.com/mayankyadav23)
+[![Data Modeling](https://img.shields.io/badge/Data%20Modeling-%F0%9F%93%8A-purple)](https://github.com/mayankyadav23)
 
 - **Data Cleaning & Preparation**: Ensuring data quality for accurate insights.
 - **Exploratory Data Analysis (EDA)**: Deriving key trends from raw data.
