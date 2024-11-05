@@ -39,7 +39,7 @@ I specialize in transforming complex data into actionable insights that drive bu
 | ![Excel](https://img.shields.io/badge/Excel-%F0%9F%93%8B-green?logo=microsoft-excel&logoColor=white)        | Advanced Functions, Power Query                    |
 | ![Power BI](https://img.shields.io/badge/Power%20BI-%F0%9F%93%A2-orange?logo=powerbi&logoColor=white)   | DAX, Visualizations                                |
 | ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%F0%9F%93%88-red?logo=jupyter&logoColor=white) | Data Analysis                                      |
-| ![Google Analytics](https://img.shields.io/badge/Tableau-%F0%9F%93%A2-blue?logo=tableau&logoColor=white)       | Traffic Analysis, Conversion Tracking                                |
+| ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-%F0%9F%93%A2-blue?logo=google&logoColor=white)       | Traffic Analysis, Conversion Tracking                                |
 | ![MS Word](https://img.shields.io/badge/MS%20Word-%F0%9F%93%84-blue?logo=microsoft-word&logoColor=white)       | Documentation, Reports                             |
 | ![MS PowerPoint](https://img.shields.io/badge/MS%20PowerPoint-%F0%9F%93%A2-orange?logo=microsoft-powerpoint&logoColor=white)       | Presentations, Data Storytelling                   |
 | ![MS Outlook](https://img.shields.io/badge/MS%20Outlook-%F0%9F%93%A4-blue?logo=microsoft-outlook&logoColor=white)       | Communication, Email Management                    |
