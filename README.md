@@ -13,6 +13,7 @@ I specialize in transforming complex data into actionable insights that drive bu
 [![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-%F0%9F%93%88-blue)](https://github.com/mayankyadav23) 
 [![Visualization](https://img.shields.io/badge/Data%20Visualization-%F0%9F%93%A2-orange)](https://github.com/mayankyadav23)
 [![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-%E2%9A%99%EF%B8%8F-yellow)](https://github.com/mayankyadav23)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%F0%9F%93%88-maroon)](https://github.com/mayankyadav23) 
 [![Storytelling](https://img.shields.io/badge/Data%20Storytelling-%F0%9F%93%9D-lightgrey)](https://github.com/mayankyadav23)
 [![Data Transformation](https://img.shields.io/badge/Data%20Transformation-%F0%9F%94%A5-red)](https://github.com/mayankyadav23)
 [![Data Profiling](https://img.shields.io/badge/Data%20Profiling-%E2%9C%85-blue)](https://github.com/mayankyadav23)
@@ -38,7 +39,7 @@ I specialize in transforming complex data into actionable insights that drive bu
 | ![Excel](https://img.shields.io/badge/Excel-%F0%9F%93%8B-green?logo=microsoft-excel&logoColor=white)        | Advanced Functions, Power Query                    |
 | ![Power BI](https://img.shields.io/badge/Power%20BI-%F0%9F%93%A2-orange?logo=powerbi&logoColor=white)   | DAX, Visualizations                                |
 | ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%F0%9F%93%88-red?logo=jupyter&logoColor=white) | Data Analysis                                      |
-| ![Tableau](https://img.shields.io/badge/Tableau-%F0%9F%93%A2-blue?logo=tableau&logoColor=white)       | Data Visualizations                                |
+| ![Google Analytics](https://img.shields.io/badge/Tableau-%F0%9F%93%A2-blue?logo=tableau&logoColor=white)       | Traffic Analysis, Conversion Tracking                                |
 | ![MS Word](https://img.shields.io/badge/MS%20Word-%F0%9F%93%84-blue?logo=microsoft-word&logoColor=white)       | Documentation, Reports                             |
 | ![MS PowerPoint](https://img.shields.io/badge/MS%20PowerPoint-%F0%9F%93%A2-orange?logo=microsoft-powerpoint&logoColor=white)       | Presentations, Data Storytelling                   |
 | ![MS Outlook](https://img.shields.io/badge/MS%20Outlook-%F0%9F%93%A4-blue?logo=microsoft-outlook&logoColor=white)       | Communication, Email Management                    |
@@ -168,6 +169,7 @@ Predicts car prices with **92% accuracy** using a **Random Forest model**. It ta
 ## 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mayankyadv) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/mayankyadav23)
+[![Email](https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=gmail)](mailto:mayanky075@gmail.com)
 
 ---
 
